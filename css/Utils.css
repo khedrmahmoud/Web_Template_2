@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+.mg-b-5{
+    margin-bottom: 5px;
+}
+.mg-b-10{
+    margin-bottom: 10px;
+}
+.mg-b-15{
+    margin-bottom: 15px;
+}
+.mg-b-20{
+    margin-bottom:20px;
+}
+.mg-b-25{
+    margin-bottom: 25px;
+}
+.mg-b-30{
+    margin-bottom: 30px;
+}
+.mg-b-35{
+    margin-bottom: 35px;
+}
+.mg-b-45{
+    margin-bottom: 45px;
+}
+.mg-b-50{
+    margin-bottom: 50px;
+}
+
+
+.uppercase{
+    text-transform: uppercase;
+    
+}
+
+.capitalize{
+    text-transform:  capitalize;;
+    
+}
+
+
+
+.float-left{
+    float: left;
+}
+
+.overflow{
+    overflow: hidden;
+}
+
+.bg-gray{
+    background: #f9f9f9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
